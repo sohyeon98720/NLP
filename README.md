@@ -4,3 +4,6 @@
 
 ### 일정
 ~10.30 데이터 수집
+
+### reference
+https://github.com/KMJJ1/hiphop
