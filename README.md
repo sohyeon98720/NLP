@@ -3,14 +3,14 @@
 
 
 ### 일정
-~10.30 데이터 수집
+~10.22 데이터 수집
 
 
 ### input data structure
 
 ### generator
 
-### 
+### output sample
 
 ### reference
 https://github.com/KMJJ1/hiphop
