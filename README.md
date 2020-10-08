@@ -8,10 +8,8 @@
 
 -------
 
---------
-
-
 ### input data structure
+
 ----------
 
 ### generator
