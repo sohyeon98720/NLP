@@ -24,7 +24,9 @@
 ----------
 
 ### generator
+
 `code`
+
 ----------
 
 ### output sample
