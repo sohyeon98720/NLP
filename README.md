@@ -45,3 +45,4 @@
 ----------
 ### reference
 https://github.com/KMJJ1/hiphop
+https://github.com/gyunggyung/KoGPT2-FineTuning
