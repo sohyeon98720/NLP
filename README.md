@@ -46,4 +46,5 @@
 ### reference
 https://github.com/KMJJ1/hiphop <br>
 https://github.com/gyunggyung/KoGPT2-FineTuning <br>
-https://hellya.tistory.com/96
+https://hellya.tistory.com/96 <br>
+https://github.com/jx2lee/lyric-generator
