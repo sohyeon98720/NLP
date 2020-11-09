@@ -45,4 +45,5 @@
 ----------
 ### reference
 https://github.com/KMJJ1/hiphop <br>
-https://github.com/gyunggyung/KoGPT2-FineTuning
+https://github.com/gyunggyung/KoGPT2-FineTuning <br>
+https://hellya.tistory.com/96
