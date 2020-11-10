@@ -37,11 +37,6 @@
 ### output sample
 `사진`
 
------------
-### 모델 설명
----
-
-### 개발 과정
 ----------
 ### reference
 https://github.com/KMJJ1/hiphop <br>
