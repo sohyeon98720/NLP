@@ -43,6 +43,8 @@
 ----------
 ### reference
 https://github.com/gyunggyung/KoGPT2-FineTuning <br>
+<!--
 https://github.com/KMJJ1/hiphop <br>
 https://hellya.tistory.com/96 <br>
 https://github.com/jx2lee/lyric-generator
+>
