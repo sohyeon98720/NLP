@@ -45,7 +45,7 @@
 
 ### generator
 
-`code`
+`python generator.py --load_path='./checkpoint/~~~.tar' --tmp_sent='사랑'`
 
 ----------
 
