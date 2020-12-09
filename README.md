@@ -44,7 +44,7 @@
 
 ----------
 
-### 학습
+### 가사생성
 
 `python generator.py --load_path='./checkpoint/~~~.tar' --tmp_sent='사랑'`
 
