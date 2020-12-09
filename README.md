@@ -50,11 +50,11 @@
 
 ----------
 
-### output sample
+### 기술시연
 `사진`
 
 ----------
-### reference
+### 참고자료
 https://github.com/gyunggyung/KoGPT2-FineTuning <br>
 <!--
 https://github.com/KMJJ1/hiphop <br>
