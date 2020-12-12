@@ -44,6 +44,12 @@
 
 ----------
 
+### 학습
+
+`python main.py --epoch=200 --data_file_path=dataset/2010-2019_댄스.tsv --load_path=./checkpoint/~~~.tar batch_size=1`
+
+-------
+
 ### 가사생성
 
 `python generator.py --load_path='./checkpoint/~~~.tar' --tmp_sent='사랑'`
