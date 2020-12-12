@@ -53,7 +53,7 @@ python main.py --epoch=200 --data_file_path=dataset/2010-2019_댄스.tsv --save_
 
 ### 가사생성
 
-`python generator.py --load_path='./checkpoint/~~~.tar' --tmp_sent='사랑'`
+`python generator.py --temperature=1.0 --load_path='./checkpoint/~~~.tar' --tmp_sent='사랑'`
 
 ----------
 
