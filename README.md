@@ -49,6 +49,8 @@
 ```sh
 python main.py --epoch=200 --data_file_path=dataset/2010-2019_댄스.tsv --save_path=./checkpoint/ --load_path=./checkpoint/~~~.tar batch_size=1
 ```
++더 많은 파라미터 조정에 대해서는 참고자료 이용
+
 -------
 
 ### 가사생성
@@ -56,6 +58,7 @@ python main.py --epoch=200 --data_file_path=dataset/2010-2019_댄스.tsv --save_
 ```sh
 python generator.py --temperature=1.0 --load_path='./checkpoint/~~~.tar' --tmp_sent='사랑'
 ```
++더 많은 파라미터 조정에 대해서는 참고자료 이용
 
 ----------
 
