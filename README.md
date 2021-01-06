@@ -63,7 +63,7 @@ python generator.py --temperature=1.0 --load_path='./checkpoint/~~~.tar' --tmp_s
 ----------
 
 ### 기술시연
-`사진`
+<img src="https://user-images.githubusercontent.com/47767202/103736445-9d724d00-5033-11eb-9120-6b650c421fa9.png">
 
 ----------
 ### 참고자료
