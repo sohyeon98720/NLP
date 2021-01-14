@@ -63,9 +63,8 @@ python generator.py --temperature=1.0 --load_path='./checkpoint/~~~.tar' --tmp_s
 ----------
 
 ### 기술시연
-|시대|장르|temperature|tmp_sent|
-|:--:|:--:|:--:|:--:|
-|2011-2019|댄스|1.0|사랑|
+
+`2011-2019` + `댄스` 데이터로 학습후 `temperature=1.0` `tmp_sent='사랑'`으로 생성한 문장 예시
 <img src="https://user-images.githubusercontent.com/47767202/103736445-9d724d00-5033-11eb-9120-6b650c421fa9.png">
 
 ----------
